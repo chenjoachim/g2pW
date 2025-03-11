@@ -25,7 +25,6 @@ setuptools.setup(
     ],
     install_requires=[
         'tqdm',
-        'onnxruntime',
         'transformers'
     ],
     extras_require={
